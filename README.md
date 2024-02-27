@@ -1,7 +1,6 @@
 # Introduction
 
-This is starter project for Laravel-lumen + svelte.
-considerate to develop your svelte app separate and merge with lumen when its done and you want to merge it to lumen backend.
+Starter project for Laravel-lumen + svelte. Consider developing your svelte app separately and merging it when it's done and you want to compile it ✨.
 
 ## Installation
 
@@ -18,4 +17,4 @@ then install the dependencies
   composer Install && npm install
 ```
 
-now you can start build your app using lumen and svelte.
+now you can start build your app using lumen and svelte 👨‍💻.
